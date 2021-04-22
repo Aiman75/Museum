@@ -1,0 +1,19 @@
+$large1244: 1244px;
+$large1140: 1140px;
+$large1044: 1044px;
+$largeTablet890: 890px;
+$tabletMiddle: 820px;
+$tabletMini: 725px;
+$tablet652: 652px;
+$largeMobile550: 550px;
+$mobile: 420px;
+
+$computer1244: "only screen and (max-width: #{$large1244})";
+$computer1140: "only screen and (max-width: #{$large1140})";
+$computer1044: "only screen and (max-width: #{$large1044})";
+$tablet890: "only screen and (max-width: #{$largeTablet890})";
+$tabletMiddle820: "only screen and (max-width: #{$tabletMiddle})";
+$tabletMini725: "only screen and (max-width: #{$tabletMini})";
+$minTablet652: "only screen and (max-width: #{$tablet652})";
+$largeMobile550: "only screen and (max-width: #{$largeMobile550})";
+$mobile420: "only screen and (max-width: #{$mobile})";
